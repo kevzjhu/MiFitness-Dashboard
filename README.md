@@ -1,8 +1,10 @@
 # MiFitness Dashboard
 
-[![Mi Fitness Analytics Dashboard](images/Dashboard.png)](https://datastudio.google.com/s/nIyU3X99ZAc)
+<a href="https://datastudio.google.com/s/mTjOQonZc80" target="_blank">
+  <img src="images/Dashboard.png" alt="MiFitness Dashboard" width="100%" />
+</a>
 
-> 🔗 **[View Live Interactive Dashboard on Looker/Data Studio](https://datastudio.google.com/s/nIyU3X99ZAc)**
+<a href="https://datastudio.google.com/s/mTjOQonZc80" target="_blank">🔗 View Live Interactive Dashboard on Looker Studio</a>
 
 ---
 
