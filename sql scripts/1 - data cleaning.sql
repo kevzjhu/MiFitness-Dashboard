@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE `mifitness-503818.Health_Center.Fitness_Data_Cleaned`
+CREATE OR REPLACE TABLE `mifitness-503818.Health_Center.Fitness Data Cleaned View`
 AS
 SELECT
   CAST(Uid AS INT64) AS Uid,

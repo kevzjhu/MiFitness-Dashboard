@@ -1,3 +1,5 @@
+CREATE OR REPLACE TABLE `mifitness-503818.Health_Center.Fitness Data Heart Rate`
+AS
 SELECT 
   Uid,
   local_datetime,
