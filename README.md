@@ -62,7 +62,7 @@ Because I first examined the individual tables (`2 - heart data.sql`, `2 - sleep
 ---
 ## 🚀 How to Replicate
 1. **Google Cloud Platform:** Create a BigQuery dataset and ingest the raw Xiaomi MiFitness `.csv` export dumps
-2. **Execute Transformations:** Run the scripts in `/sql` sequentially to build `Fitness Data Cleaned View`, stage-specific tables, and the unified daily reporting table. Save each table in BigQuery
+2. **Execute Transformations:** Run the scripts in `/sql scripts` sequentially to build `Fitness Data Cleaned View`, stage-specific tables, and the unified daily reporting table. Save each table in BigQuery
 3. **Connect Looker/Data Studio:** Add the output table as a BigQuery data source and map custom aggregations to scorecards, time-series charts, and combo charts
 
 ---
