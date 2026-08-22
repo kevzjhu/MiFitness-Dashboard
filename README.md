@@ -51,7 +51,7 @@ Because I first examined the individual tables (`2 - heart data.sql`, `2 - sleep
 │   ├── Dashboard.png                   # Dashboard preview
 │   ├── Dashboard Filtered.png          # Dashboard with a date filter applied
 │   └── MiFitness_Dashboard.pdf         # pdf export of the dashboard
-└── sql/
+└── sql scripts/
     ├── 1 - data cleaning.sql           # JSON extraction & Unix timestamp normalization
     ├── 2 - heart data.sql              # Daily heart rate metrics
     ├── 2 - sleep data.sql              # Sleep stage and bedtime duration parsing
